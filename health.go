@@ -24,6 +24,7 @@ const (
 )
 
 var (
+	/*
 	keyCheck, _        = tag.NewKey("check")
 	keyCheckPassing, _ = tag.NewKey("check_passing")
 
@@ -59,6 +60,7 @@ var (
 		ViewCheckStatusByName,
 		ViewCheckExecutionTime,
 	}
+	 */
 )
 
 // Health is the API for registering / deregistering health checks, and for fetching the health checks results.
